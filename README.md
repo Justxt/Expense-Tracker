@@ -1,8 +1,9 @@
-# React + Vite
+# Expense-Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EXPENSE TRACKER
+To enter expenses, use the "-" sign, ex. "-100".
 
-Currently, two official plugins are available:
+SEGUIMIENTO DE GASTOS
+Para ingresar los gatos hacerlo con el signo "-" ej. "-100".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/Justxt/Expense-Tracker/assets/96129728/d4ffe5e9-b2d6-42f2-b80f-732a783d03ae)
